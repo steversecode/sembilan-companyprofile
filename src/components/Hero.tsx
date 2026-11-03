@@ -27,18 +27,18 @@ export const Hero: React.FC<HeroProps> = ({ onRequestProposal, onWatchShowreel }
         <div className="max-w-2xl">
           {/* Eyebrow Label */}
           <div className="text-xs sm:text-sm font-semibold tracking-wider text-slate-200 uppercase mb-4 sm:mb-5">
-            EVENT SOLUTION PARTNER
+            PARTNER SOLUSI EVENT
           </div>
 
-          {/* Main Title - We Create Meaningful Events */}
+          {/* Main Title - Tagline in Indonesian */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white leading-[1.08] mb-5 sm:mb-6">
-            We Create<br />
-            Meaningful Events
+            Mewujudkan Acara<br />
+            Penuh Makna
           </h1>
 
-          {/* Subtitle / Paragraph */}
+          {/* Subtitle / Paragraph in Indonesian */}
           <p className="text-sm sm:text-base md:text-lg text-slate-200 font-normal leading-relaxed mb-8 max-w-xl text-balance">
-            Event production, brand activation, MICE, gathering, dan dukungan peralatan event profesional untuk kesuksesan acara Anda.
+            Produksi event, aktivasi merek, MICE, gathering perusahaan, dan dukungan peralatan panggung profesional untuk kesuksesan setiap acara Anda.
           </p>
 
           {/* Action Button & Optional Showreel */}
@@ -56,7 +56,7 @@ export const Hero: React.FC<HeroProps> = ({ onRequestProposal, onWatchShowreel }
               className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white/10 hover:bg-white/20 text-white font-medium text-xs sm:text-sm backdrop-blur-xs border border-white/20 transition-colors"
             >
               <Play className="w-3.5 h-3.5 fill-current text-[#F95700]" />
-              <span>Watch Showreel</span>
+              <span>Tonton Showreel</span>
             </button>
           </div>
 
