@@ -1,0 +1,8 @@
+{
+  "name": "Sembilan Communication",
+  "description": "High-fidelity corporate event organizer website with seamless conference production, executive summits, bespoke gala management, and immersive experiential design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
